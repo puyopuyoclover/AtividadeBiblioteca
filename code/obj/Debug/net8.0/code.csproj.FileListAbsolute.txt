@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\bin\Debug\net8.0\code.exe
+C:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\bin\Debug\net8.0\code.deps.json
+C:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\bin\Debug\net8.0\code.runtimeconfig.json
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\bin\Debug\net8.0\code.dll
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\bin\Debug\net8.0\code.pdb
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\code.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\code.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\code.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\code.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\code.sourcelink.json
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\code.dll
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\refint\code.dll
+c:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\code.pdb
+C:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\code.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\adri\AtividadeBiblioteca\code\obj\Debug\net8.0\ref\code.dll
