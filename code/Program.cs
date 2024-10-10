@@ -132,7 +132,7 @@ public class Biblioteca
         }
     }
 
-    public List<Livro> Livros => livros; // Para acesso externo aos livros
+    public List<Livro> Livros => livros;
 }
 
 class ProgramaPrincipal
